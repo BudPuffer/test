@@ -1,2 +1,53 @@
-https://raw.githubusercontent.com/BudPuffer/iptv/main/channels.m3u8
-https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml
+#EXTM3U
+#EXTINF:-1,US| Fox News 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15821
+#EXTINF:-1,FOX Business Network
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.business.us.m3u8
+#EXTINF:-1,US| HGTV 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15838
+#EXTINF:-1,US| Comedy Central 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15888
+#EXTINF:-1,US| A&E 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15894
+#EXTINF:-1,US| Food Network 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15899
+#EXTINF:-1,US| Animal Planet 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15903
+#EXTINF:-1,US| History Channel 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15904
+#EXTINF:-1,US| National Geographic 4K
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15906
+#EXTINF:-1,US| Discovery Channel  4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15907
+#EXTINF:-1,US| Discovery Science HD+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15909
+#EXTINF:-1,US| The CW 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15912
+#EXTINF:-1,US| FXX 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15914
+#EXTINF:-1,US| Fox Sport 1 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15922
+#EXTINF:-1,US| Fox Sport 2 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15923
+#EXTINF:-1,US| MLB Network 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15970
+#EXTINF:-1,Adult Swim
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/adult.swim.east.us.m3u8
+#EXTINF:-1,Boomerang
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/boomerang.us.m3u8
+#EXTINF:-1,Cooking Channel US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/the.cooking.channel.us.m3u8
+#EXTINF:-1,InfoWars
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/infowars.us.m3u8
+#EXTINF:-1,Nicktoons US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nicktoons.east.us.m3u8
+#EXTINF:-1,USA: Fail Army
+http://forma.fantacalcio2122.xyz:25461/228bksyf015/rZcghWSyaF/132124
+#EXTINF:-1,US : CW (KSTW) TACOMA WASHINGTON
+http://mains.services:2086/A.Jones01/1904550/90378
+#EXTINF:-1,US : FOX (KCPQ -Seattle WA)
+http://mains.services:2086/A.Jones01/1904550/90385
+#EXTINF:-1,US : MLB SEATTLE MARINERS
+http://mains.services:2086/A.Jones01/1904550/501
+#EXTINF:-1,US : ROOT SPORTS NORTHWEST
+http://mains.services:2086/A.Jones01/1904550/99511
