@@ -1,24 +1,24 @@
 #EXTM3U
-#EXTINF:-1,MLB Network FHD US
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network FHD US" tvg-logo="" group-title="USA" MLB Network FHD
 http://satelliteiptv.xyz:8080/zuu2lz2feh/m5zqoiwffe/4868
-#EXTINF:-1,MLB Network HD US
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network HD US" tvg-logo="" group-title="USA" MLB Network HD(1)
 http://satelliteiptv.xyz:8080/zuu2lz2feh/m5zqoiwffe/14402
-#EXTINF:-1,|US| MLB Network 4K+
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network 4K+" tvg-logo="" group-title="USA" MLB Network 4K+(1)
 http://lionboxiptv.xyz:80/AhmetBerlin6565/x8JsqyEHQu/15970
-#EXTINF:-1 tvg-id="" tvg-name="US: MLB Strike One" tvg-logo="https://www.f5.com/content/dam/f5-com/page-assets-en/home-en/customers/case-studies/logo-mlb-network.png" group-title="USA | USA",US: MLB Strike One
+#EXTINF:-1 tvg-id="" tvg-name="US: MLB Strike One" tvg-logo="" group-title="USA" MLB Strike One
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25469
-#EXTINF:-1 tvg-id="" tvg-name="US: MLB Network" tvg-logo="https://www.f5.com/content/dam/f5-com/page-assets-en/home-en/customers/case-studies/logo-mlb-network.png" group-title="USA | USA",US: MLB Network
+#EXTINF:-1 tvg-id="" tvg-name="US: MLB Network" tvg-logo="" group-title="USA" MLB Network
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25471
-#EXTINF:-1 tvg-id="" tvg-name="US: MLB Live HD" tvg-logo="http://mylatinotv.com:8080/images/mexico/mlb.png" group-title="USA",US: MLB Live HD
+#EXTINF:-1 tvg-id="" tvg-name="US: MLB Live HD" tvg-logo="" group-title="USA" MLB Live HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28518
-#EXTINF:-1 tvg-id="" tvg-name="|US| MLB Network 4K+" tvg-logo="" group-title="US : Sport",|US| MLB Network 4K+
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network 4K+" tvg-logo="" group-title="USA" MLB Network 4K+(2)
 http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15970
-#EXTINF:0,MLB Network HD US
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network HD US" tvg-logo="" group-title="USA" MLB Network HD(2)
 http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10699.m3u8
-#EXTINF:-1,US| MLB Network 4K+
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network 4K+" tvg-logo="" group-title="USA" MLB Network 4K+(3)
 http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15970
-#EXTINF:-1,US : MLB SEATTLE MARINERS
+#EXTINF:-1 tvg-id="" tvg-name="Seattle Mariners" tvg-logo="" group-title="USA" Seattle Mariners
 http://mains.services:2086/A.Jones01/1904550/50117
-#EXTINF:-1,US : ROOT SPORTS NORTHWEST
+#EXTINF:-1 tvg-id="" tvg-name="ROOT Sports" tvg-logo="" group-title="USA" ROOT Sports
 http://mains.services:2086/A.Jones01/1904550/99511
 
