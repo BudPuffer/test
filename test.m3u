@@ -1,24 +1,26 @@
 #EXTM3U
-#EXTINF:-1,US| MLB Network FHD
-http://satelliteiptv.xyz:8080/zuu2lz2feh/m5zqoiwffe/4868
-#EXTINF:-1,US| MLB Network HD1
-http://satelliteiptv.xyz:8080/zuu2lz2feh/m5zqoiwffe/14402
-#EXTINF:-1,US| MLB Network 4K+1
-http://lionboxiptv.xyz:80/AhmetBerlin6565/x8JsqyEHQu/15970
-#EXTINF:-1,US| MLB Strike One
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25469
-#EXTINF:-1,US| MLB Network
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25471
-#EXTINF:-1,US| MLB Live HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28518
-#EXTINF:-1,US| MLB Network 4K+2
-http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15970
-#EXTINF:-1,US| MLB Network HD2
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10699.m3u8
-#EXTINF:-1,US| MLB Network 4K+3
-http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/15970
-#EXTINF:-1,US| Seattle Mariners
-http://mains.services:2086/A.Jones01/1904550/50117
-#EXTINF:-1,US| ROOT Sports
-http://mains.services:2086/A.Jones01/1904550/99511
+#EXTINF:-1,US| SEA
+https://list.iptvcat.com/my_list/s/cee099ffc6c8c8e0a5645e9b17afe34b.m3u8
+#EXTINF:-1,US| Root1
+https://list.iptvcat.com/my_list/s/833699c76d1dbad2737a00cc40c6076b.m3u8
+#EXTINF:-1,US| Root2
+https://list.iptvcat.com/my_list/s/a8c22f01490cf8c801de70d9d4b6b609.m3u8
+#EXTINF:-1,US| MLBN1
+https://list.iptvcat.com/my_list/s/e06a8e701f05f9aa9d7d2df17d6ebeae.m3u8
+#EXTINF:-1,US| MLBN2
+https://list.iptvcat.com/my_list/s/b74e99adcb3dd683f028de32f553c11e.m3u8
+#EXTINF:-1,US| MLBN3
+https://list.iptvcat.com/my_list/s/83a0a6d49fa0177771a5584ce7d61c95.m3u8
+#EXTINF:-1,US| MLBN4
+https://list.iptvcat.com/my_list/s/2ce90c0e5e975b6e7d04d55c5df18ede.m3u8
+#EXTINF:-1,US| MLBN5
+https://list.iptvcat.com/my_list/s/e83a555c970154b3d5418d34053d6761.m3u8
+#EXTINF:-1,US| MLBN6
+https://list.iptvcat.com/my_list/s/977ddbfdf12f21bcf9fa89f40b411bf1.m3u8
+#EXTINF:-1,US| MLBN7
+https://list.iptvcat.com/my_list/s/675a825b3c206c53734cb1f71aa98d07.m3u8
+#EXTINF:-1,US| MLBN8
+https://list.iptvcat.com/my_list/s/43a308c01cc612ac2a538236ddf002c5.m3u8
+#EXTINF:-1,US| MLBN9
+https://list.iptvcat.com/my_list/s/c1778c436bb59846633e88a154a53bc5.m3u8
 
