@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",FOX13 
-https://list.iptvcat.com/my_list/s/3e3d9afa4c1c7c0409df5e73e821679a.m3u8
+https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ABC 
 https://list.iptvcat.com/my_list/s/606f5c66c329f0e29b1a54bd7d5ab041.m3u8
